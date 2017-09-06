@@ -2,11 +2,12 @@ CV Víctor Margallo
 ===================
 
 ## Work experience
-* Company A
-* Company B
+  ### Financial sector 
+    * Company A
+  ### Consultancy  
+    * Company B
 
 ## Education
--------------
 
 * University A
 * University B
