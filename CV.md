@@ -1,5 +1,8 @@
-#CV Víctor Margallo
+# CV Víctor Margallo
+==================
 
-##Work experience
+## Work experience
+---------------
 
-##Education
+## Education
+------------
