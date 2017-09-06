@@ -1,4 +1,4 @@
-# CV Víctor Margallo
+CV Víctor Margallo
 ===================
 
 ## Work experience
