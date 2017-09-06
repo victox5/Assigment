@@ -2,7 +2,6 @@ CV Víctor Margallo
 ===================
 
 ## Work experience
-------------------
 * Company A
 * Company B
 
